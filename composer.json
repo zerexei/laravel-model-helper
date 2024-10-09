@@ -1,0 +1,20 @@
+{
+  "name": "zerexei/laravel-model-helper",
+  "description": "Laravel Model helpers",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Zerexei\\LaravelModelHelper\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Angelo Arcillas",
+      "email": "angeloarcillas64@gmail.com"
+    }
+  ],
+  "require": {
+    "laravel/framework": "^11.0",
+    "spatie/laravel-activitylog": "^4.8"
+  }
+}
